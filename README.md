@@ -9,4 +9,4 @@
 ## Demo Project of PDF Document Search Engine:
 
 
-<img src="https://github.com/waleedjmm/Executive-Dashboard-Education/blob/main/Executive_Education_Dashboard.gif" />
+<img src="https://github.com/waleedjmm/Text-OCR/blob/main/PDF.gif" />
