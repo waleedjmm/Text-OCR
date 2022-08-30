@@ -8,5 +8,5 @@
 
 ## Demo Project of PDF Document Search Engine:
 
-<p> You can download the HD video of the demo dashboard from this link https://github.com/waleedjmm/Executive-Dashboard-Education/blob/main/Executive_Education_Dashboard.mov </p>
 
+<img src="https://github.com/waleedjmm/Executive-Dashboard-Education/blob/main/Executive_Education_Dashboard.gif" />
