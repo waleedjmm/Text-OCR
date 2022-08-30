@@ -8,5 +8,9 @@
 
 ## Demo Project of PDF Document Search Engine:
 
+<p>In this demo project, Flask was used as a bachend, and MySQL database was used. In this project, a search engine was developed, which could bring out the PDF files, in which a specific word was mentioned. </p>
+
+<br />
+<br />
 
 <img src="https://github.com/waleedjmm/Text-OCR/blob/main/PDF.gif" />
