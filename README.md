@@ -13,4 +13,4 @@
 <br />
 <br />
 
-<img src="https://github.com/waleedjmm/Text-OCR/blob/main/PDF.gif" />
+<img src="https://github.com/waleedjmm/Text-OCR/blob/main/Text_OCR.gif" />
