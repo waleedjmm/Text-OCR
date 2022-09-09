@@ -1,0 +1,18 @@
+
+<h3>{{numrows}} Records Found</h3>
+<table class="table table-striped custab">
+  <thead>
+      <tr>
+         <th>File Name</th>
+       <!--   <th>Email</th>
+         <th>File</th> -->
+      </tr>
+  </thead>
+  <tbody>
+{% for row in employee %}  
+   <tr>
+    <td>{{row.title}}</td>
+    <!-- <td>{{row.email}}</td>
+    <td>{{row.File}}</td> -->
+   </tr>
+{% endfor %} 
